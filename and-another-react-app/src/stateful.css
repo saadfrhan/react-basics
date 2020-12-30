@@ -1,0 +1,32 @@
+.Head{
+    margin-left: 20px;
+    font-family: 'Texturina', serif;
+  }
+  .result{
+    margin-left: 20px;
+    font-family: 'Texturina', serif;
+  }
+  
+  .back{
+    background-color: black;
+    border-radius: 20px;
+    padding: 30px;
+    color: white;
+    margin: 30px;
+  }
+
+  .btn{
+    font-family: 'Texturina', serif;
+    background-color: black;
+    border: 5px white solid;
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+    margin: 20px;
+  }
+  
+  .counter{
+    width: 50px;
+    height: 50px;
+  }
+  @import url('https://fonts.googleapis.com/css2?family=Texturina:wght@300&display=swap');

@@ -1,0 +1,17 @@
+h1, .collapsible-item-wrapper, .collapsible-header, .collapsible-body{
+  margin-left: 20px;
+  font-family: 'Texturina', serif;
+}
+p{
+  margin-left: 20px;
+  font-family: 'Texturina', serif;
+}
+
+.back{
+  background-color: black;
+  border-radius: 20px;
+  padding: 30px;
+  color: white;
+  margin: 30px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Texturina:wght@300&display=swap');
