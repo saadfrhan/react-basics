@@ -32,7 +32,6 @@ class EventHandling3 extends React.Component {
                 // Implemented onTextUpdate function with the parameter having the target.value of input tag.
                 onChange={(e) => { this.onTextUpdate(e.target.value) }}
             />
-
             <br />
             <br />
             <ul className="result">
